@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill Antonov</h1>
 <h3 align="center">A passionate full-stack developer from Russia</h3>
 
-🔭 I’m currently working on 
-- (rework for https://reestr.digital.gov.ru/) [sqlite3](https://github.com/sqlite/sqlite)
-- (rework for gost2001 encryption) [GostCryptography](https://github.com/AlexMAS/GostCryptography)
+- 🔭 I’m currently working on 
+  * (rework for https://reestr.digital.gov.ru/) [sqlite3](https://github.com/sqlite/sqlite)
+  * (rework for gost2001 encryption) [GostCryptography](https://github.com/AlexMAS/GostCryptography)
 
 - 🌱 I’m currently learning **React, Express**
 
